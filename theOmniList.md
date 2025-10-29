@@ -1,7 +1,52 @@
+# Anime
+## Anime Databases
+- [Anilist](https://anilist.co/): Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
+- [My Anime List](https://myanimelist.net/): The world's largest anime and manga database. Track your progress, rate series, and join a massive community of anime fans.
+- [Kitsu](https://kitsu.app/explore/anime): Beautiful anime discovery platform with extensive database and social networking features for otaku worldwide.
+- [AniDB](https://anidb.net/): Comprehensive non-profit anime database with detailed information, technical specs, and the latest releases.
+- [Kurozora](https://kurozora.app/): All-in-one platform for anime, manga, music, games, movies, OVA, and ONA with vast catalog coverage.
+- [Anime-Planet](https://www.anime-planet.com/): Discover new anime and manga with personalized recommendations and detailed character information.
+- [Simkl](https://simkl.com/): Cross-platform tracker for anime, TV shows, and movies with automatic episode tracking and progress sync.
+## Anime Desktop Applications
+- [Hayase](https://hayase.watch/): Stream anime through torrents instantly without downloads. Clean interface with multiple source support.
+- [Seanime](https://seanime.rahim.app/): Feature-rich self-hosted anime server with library management, torrent streaming, transcoding, and AniList sync.
+- [Mangayomi](https://github.com/kodjodevf/mangayomi): Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
+- [Akuse](https://github.com/akuse-app/akuse): Simple and easy to use anime streaming desktop app without ads.
+- [Taiga](https://taiga.moe/): Automatically track anime you're watching with MyAnimeList/AniList integration and episode recognition.
+## Anime Direct Download Sites
+- [AnimeTosho](https://animetosho.org/): Automated DDL mirror service for most Nyaa and TokyoTosho releases. Reliable and fast downloads.
+- [Tokyo Insider](https://www.tokyoinsider.com/): User-friendly site with vast anime collection from popular subbing groups. Well-organized and regularly updated.
+- [Animeout](https://www.animeout.xyz/): Thousands of encoded anime titles available up to 1080p quality with fast download speeds.
+- [Hi10Anime](https://hi10anime.com/)(*Signup Required*): Premium quality anime encodes with smallest file sizes. Known for excellent compression without quality loss. 
+- [Noob Subs](https://www.noobsubs.com/): Specializes in anime with dual English audio tracks plus torrent options for convenience.
+- [Kayoanime](https://kayoanime.com/): Active community for anime fans sharing updates, news, and download links with discussion.
+- [ChauThanh](https://chauthanh.info/): Access over 5,000 high-quality anime, drama series, and soundtracks with organized categories.
+## Anime Streaming Sites
+- [AnimeKai](https://anikai.to/): 12,000+ anime titles with hard/soft subs & dubs, plus AniList sync support for seamless tracking.
+- [HiAnime](https://hianime.to/): Lightning-fast streaming with downloadable subbed/dubbed anime. Excellent video quality and minimal ads.
+- [4Anime](https://4anime.gg/): Stream anime free in HD on mobile devices with complete series and film collections.
+- [Anicrush](https://anicrush.to/): Ad-free anime streaming platform for immersive viewing experience without interruptions.
+- [Anidep](https://anidap.se/): Watch anime online for free in HD; no registration, no ads, sub and dub available.
+- [AniHQ](https://anihq.to/): Stream English subbed and dubbed anime for free without account registration required.
+- [AniGo](https://anigo.to/): Premier destination for anime lovers streaming high-definition content with reliable servers.
+- [Anikoto](https://anikoto.tv/): Free anime streaming platform with English subtitles and dubbing options for global audience.
+- [Kaido](https://kaido.to/): Dependable streaming site with outstanding HD quality and fast loading times for anime content.
+- [AnimeNana](https://animenana.com/): Supercharged streaming servers hosting favorite anime series with latest releases and updates.
+- [AnimeStar](https://animestar.cc/home): Quality streaming website offering English subbed and dubbed anime in HD resolution.
+- [AnimeNoSub](https://animenosub.to/): Versatile platform offering SUB, DUB, and RAW anime viewing options for all preferences.
+- [Kuroiru](https://kuroiru.co/): Track anime across platforms while streaming favorite series with integrated tracking features.
+- [Aninow](https://aninow.tv/): Modern anime streaming platform with clean design and reliable content delivery.
+- [Anizone](https://anizone.to/): Comprehensive anime streaming service with extensive library and regular content updates.
+- [WCOFlix](https://www.wcoflix.tv/): Watch variety of cartoons and anime free in awesome HD quality with broad content selection.
+- [123Anime](https://123anime.info/): Easy access to nice anime selection with dependable streams and regular content updates.
+- [All-Wish](https://all-wish.me/): Feature-packed interface with extensive database and hourly updates for latest content.
+- [Anime Realms](https://www.animerealms.org/): Immersive anime realm where high-quality series and films are easily accessible and you can watch with friends via Watch2Together
+- [RamenFlix](https://ramenflix.com/): Offering high-quality streaming, a vast library of anime, no intrusive ads, and a user-friendly interface - all completely free.
+- [AnimeXin](https://animexin.dev/): Specialized in Chinese donghua series with original fansub content and quality releases.
+- [MyAnime](https://myanime.live/): Several donghua streaming options with English subtitles accessible for international viewers.
+## Anime Torrent Sites
 # Blogs
 ## Educational Blogs
-### Language Blogs
-- [The Punctuation Guide](https://www.thepunctuationguide.com/): Punctuation Guide
 ### General Educational Blogs
 - [How Stuff Works](https://www.howstuffworks.com/): Learn How Everything Works!
 ### Math Educational Blogs
@@ -70,60 +115,29 @@
 - [Memory Toys](https://memory.toys/): A collection of four memory based games to play and enjoy
 - [Dual N Back](https://nbacking.com/): In n-back task you need to remember n previous spatial or auditory stimuli.
 - [Brain Scale](https://brainscale.net/): This site contains brain training exercises and games.
-# AI
-- [GPT4All](https://www.nomic.ai/gpt4all): An ecosystem of open-source chat bots trained on a massive collections of clean assistant data including code, stories and dialogue.
-- [JanAI](https://www.jan.ai/): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [LearnAbout](https://learning.google.com/experiments/learn-about): Google learning AI
-- [Gemini Learning Coach](https://gemini.google.com/gem/learning-coach): Learning coach based on Google's Gemini
-# Browsers
-- [Chromium](https://www.chromium.org/chromium-projects/): Open-source browser project offering strong security, fast performance, and stability
-- [Floorp](https://floorp.app/en-US): The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web.
-- [Firefox](https://firefox.com/): Web browser by Mozilla with Gecko and WebKit engines.
-- [Waterfox](https://www.waterfox.net/): Utilize Waterfox for a high-speed, private browsing experience on 64-bit systems.
-# Desktops
-- [Plasma KDE](https://kde.org/plasma-desktop/): Plasma is a cross-device work environment by the KDE Community
-# Operating Systems
-## Linux Distros
-- [Arch Linux](https://archlinux.org/): Arch Linux is an independently developed, x86_64 optimized GNU/Linux distribution targeted at competent Linux users.
-- [Debian](http://www.debian.org/): Debian is a free and open-source operating system (OS) that forms the foundation for various Linux distributions.
-# VPNs
-- [Mullvad](https://mullvad.net/en): Mullvad is a VPN service that helps keep your online activity, identity, and location private.
-- [Windscribe](https://windscribe.com/): Simple VPN, has a free plan that gives you 10GB/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 # Guides
-## Linux Guides
-- [LinuxJourney](https://labex.io/linuxjourney): Learn Linux the Linux-fu way, for free.
-- [HowToLinux](https://howtolinux.vercel.app/): Explore a Treasure Trove of Tips, Tricks, and Expert Hacks for Ultimate Productivity.
-- [LinuxTopia](https://www.linuxtopia.org/): Linuxtopia is an extensive online resource for anyone learning or deploying enterprise level open source technology.
-- [Boot Repair](https://help.ubuntu.com/community/Boot-Repair): Grub Repair Guide for Linux Systems
-- [Linux Command Library](https://linuxcommandlibrary.com/): A great resource for learning the commands for Linux
-- [CommandLineFU](https://www.commandlinefu.com/commands/browse): A collection of CLI snippets submitted by Linux users
-- [Bash Academy](https://guide.bash.academy/): A quality-driven guide through the shell's many features.
-- [ss64 Bash](https://ss64.com/bash/): An A-Z Index of the  Linux   command line: bash + utilities.
-- [Bash One Liner](https://onceupon.github.io/Bash-Oneliner/): A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 ## Piracy Guides
 - [Fake Fitgirl Sites](https://claraiscute.neocities.org/Guides/FakeFitgirlwebsites/): This guide will tell you the list of known fake websites and teach you how to avoid them.
+## Minecraft Guides
+- [Setup Java Server](https://help.minecraft.net/hc/en-us/articles/360058525452-How-to-Setup-a-Minecraft-Java-Edition-Server): This guide shows you how to set up and configure a Minecraft Server.
+# Movies & TV Shows
+## Movie & TV Show Streaming Sites
+- [Cineby](https://www.cineby.gd/): Premium streaming experience with anime, movies, and TV shows. Clean interface and reliable servers.
+- [Xprime](https://xprime.tv/): Versatile streaming platform featuring anime, movies, and TV series with high-quality video and reliable servers.
+- [Flixer](https://flixer.sh/): Multi-content streaming service offering anime alongside movies and TV shows with user-friendly interface.
+- [VeloraTV](https://veloratv.ru/): Russian-based streaming platform providing anime content with multiple language options and quality streams.
 # Wikis
-## Linux Wikis
-- [ArchWiki](https://wiki.archlinux.org/title/Main_page): The #1 best site for all your Arch Linux questions
-- [GentooWiki](https://wiki.gentoo.org/wiki/Main_Page): Both official Gentoo project documentation as well as community-contributed content can be found here.
-- [DebianWiki](https://wiki.debian.org/): This wiki is a support and documentation resource for the [Debian](http://www.debian.org) project.
 ## General Knowledge Wikis
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia): A large wiki about sustainability and poverty reduction
 - [Polymaker](https://wiki.polymaker.com/): A comprehensive wiki providing information about 3D printing
 - [DIY Biohacking](https://diyhpl.us/wiki/): A wiki for open source hardware, do-it-yourself bio hacking and practical human enhancement engineering projects which could be called transhumanism.
 - [Psychonauts](https://psychonautwiki.org/wiki/Main_Page): A community-driven online encyclopedia that aims to document psychoanutics in a comprehensive, scientifically-grounded manner.
-# YouTube Playlists
-## Linux Playlists
-- [Mental Outlaw Vim Playlist](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-)
 # YouTube Channels
-## Linux Channels
-- [Erik Dubois](https://www.youtube.com/c/ErikDubois): Arch-centric Linux Video Tutorials
 ## General Educational Channels
 - [Gresham College](https://www.youtube.com/@GreshamCollege/videos): Gresham College was founded in 1597 and has been providing free lectures in the City of London for over 400 years.
 - [CrashCourse](https://www.youtube.com/@crashcourse): At Crash Course, we believe that high-quality educational videos should be available to everyone for free!
 # Forums
 ## Educational Forums
-- [LinuxQuestions](https://www.linuxquestions.org/questions/): Linux Q&A Forum
 - [CertCommunity](https://www.certcommunity.org/forum/): IT Cert Courses Forum
 - [Stack Exchange](https://stackexchange.com/): Stack Overflow and the Stack Exchange network help people find the answers they need, when they need them.
 - [LockPicking101](https://www.lockpicking101.com/): A community dedicated to the fun and ethical hobby of lock picking.
@@ -149,8 +163,6 @@
 # GitHubs
 ## API Githubs
 - [Public APIs](https://github.com/public-apis/public-apis): collective list of free APIs for use in software and web development.
-## BootStrap GitHubs
-- [Bootstrap](https://github.com/twbs/bootstrap): Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 ## Dev Project GitHubs
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 ## Educational GitHubs
@@ -163,20 +175,9 @@
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses/): This list is an attempt to bring to light awesome CS courses
 - [OSSU](https://github.com/ossu/): Empowering learners to master college curricula through free resources. Choose a major and start today!
 - [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games): A curated list of awesome educational games to learn editors, languages, programming, etc
-## Linux GitHubs
-- [Linux In A PDF](https://github.com/ading2210/linuxpdf):  **Linux running inside a PDF file** via a RISC-V emulator
-- [Sorhus Guides](https://github.com/sindresorhus/guides): Linux Guides for Node.js Developers
-- [Awesome for One-Liner](https://github.com/sheepla/awesome-for-oneliner): This is a list of useful commands in the Unix shell one liner.
-- [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI): A list of various CLI commands 
-- [navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line.
-## JavaScript GitHubs
--  [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript): This GitHub repository showcases techniques to create interactive web experiences without relying on JavaScript.
-- [WTFJS](https://github.com/denysdovhan/wtfjs): This repo contains a list of some crazy examples and how they work related to JavaScript.
 ## Interviewing GitHubs
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): This repository covers different questions for your next coding interview.
 - [DevOPS Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions): Collection of 1100+ DevOps interview questions with detailed answers
-## Machine Learning GitHubs
-- [Machine-Learning-Deep-Learning](https://github.com/engineers-planet/Machine-Learning_Deep-learning_Free-Download):  This repository contains a collection of various **Machine Learning** and **Deep Learning** projects for free download.
 ## Misc. GitHubs
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood): A curated list of falsehoods programmers believe in.
 - [Programming Excuses](https://github.com/CrossNox/programmingexcuses?tab=readme-ov-file): It’s a fun project designed to generate excuses that developers can use when their code isn’t working or when they don’t feel like coding.
@@ -184,10 +185,6 @@
 - [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements): A collection listing all Achievements available on the GitHub profile.
 ## Privacy GitHubs
 - [DeGoogle](https://github.com/tycrek/degoogle): This repository includes recommendations for tools that prioritize user privacy and data security.
-## Python GitHubs
-- [Awesome Python](https://github.com/vinta/awesome-python): An opinionated list of awesome Python frameworks, libraries, software and resources.
-## React GitHubs
-- [React Library](https://github.com/facebook/react): React is a JavaScript library for building user interfaces.
 ## Useful Tool GitHubs
 - [MD2PDF](https://github.com/realdennis/md2pdf): A fantastic tool to convert **Markdown to PDF**
 - [Diagram as Code](https://github.com/RominaElenaMendezEscobar/diagram-as-code): **Diagram as Code** is an approach that allows you to create diagrams through code instead of traditional graphic tools.
@@ -205,7 +202,75 @@
 - [LCWO](https://lcwo.net/): Learn Morse Code Online
 - [Library of Juggling](https://libraryofjuggling.com/): The Library of Juggling is an attempt to list all of the popular (and perhaps not so popular) juggling tricks in one organized place.
 - [Bridge Command](https://www.bridgecommand.co.uk/): An interactive 3d ship & radar simulator
-# Language Sites
+# Computers
+## AI
+- [GPT4All](https://www.nomic.ai/gpt4all): An ecosystem of open-source chat bots trained on a massive collections of clean assistant data including code, stories and dialogue.
+- [JanAI](https://www.jan.ai/): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [LearnAbout](https://learning.google.com/experiments/learn-about): Google learning AI
+- [Gemini Learning Coach](https://gemini.google.com/gem/learning-coach): Learning coach based on Google's Gemini
+## Browsers
+- [Chromium](https://www.chromium.org/chromium-projects/): Open-source browser project offering strong security, fast performance, and stability
+- [Floorp](https://floorp.app/en-US): The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web.
+- [Firefox](https://firefox.com/): Web browser by Mozilla with Gecko and WebKit engines.
+- [Waterfox](https://www.waterfox.net/): Utilize Waterfox for a high-speed, private browsing experience on 64-bit systems.
+## Operating Systems
+### Linux
+#### Linux Guides
+- [Sorhus Guides](https://github.com/sindresorhus/guides): Linux Guides for Node.js Developers
+- [navi](https://github.com/denisidoro/navi): An interactive cheatsheet tool for the command-line.
+- [Mental Outlaw Vim Playlist](https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-): An older playlist by Mental Outlaw that delves into using the text editor VIM
+- [ArchWiki](https://wiki.archlinux.org/title/Main_page): The #1 best site for all your Arch Linux questions
+- [GentooWiki](https://wiki.gentoo.org/wiki/Main_Page): Both official Gentoo project documentation as well as community-contributed content can be found here.
+- [DebianWiki](https://wiki.debian.org/): This wiki is a support and documentation resource for the [Debian](http://www.debian.org) project.
+- [Erik Dubois](https://www.youtube.com/c/ErikDubois): Arch-centric Linux Video Tutorials
+- [LinuxJourney](https://labex.io/linuxjourney): Learn Linux the Linux-fu way, for free.
+- [HowToLinux](https://howtolinux.vercel.app/): Explore a Treasure Trove of Tips, Tricks, and Expert Hacks for Ultimate Productivity.
+- [LinuxTopia](https://www.linuxtopia.org/): Linuxtopia is an extensive online resource for anyone learning or deploying enterprise level open source technology.
+- [Boot Repair](https://help.ubuntu.com/community/Boot-Repair): Grub Repair Guide for Linux Systems
+#### Linux CLI
+- [Linux Command Library](https://linuxcommandlibrary.com/): A great resource for learning the commands for Linux
+- [CommandLineFU](https://www.commandlinefu.com/commands/browse): A collection of CLI snippets submitted by Linux users
+- [Bash Academy](https://guide.bash.academy/): A quality-driven guide through the shell's many features.
+- [ss64 Bash](https://ss64.com/bash/): An A-Z Index of the  Linux   command line: bash + utilities.
+- [Bash One Liner](https://onceupon.github.io/Bash-Oneliner/): A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [Awesome for One-Liner](https://github.com/sheepla/awesome-for-oneliner): This is a list of useful commands in the Unix shell one liner.
+- [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI): A list of various CLI commands 
+#### Linux Distros
+- [Arch Linux](https://archlinux.org/): Arch Linux is an independently developed, x86_64 optimized GNU/Linux distribution targeted at competent Linux users.
+- [Debian](http://www.debian.org/): Debian is a free and open-source operating system (OS) that forms the foundation for various Linux distributions.
+- [Plasma KDE](https://kde.org/plasma-desktop/): Plasma is a cross-device work environment by the KDE Community
+- [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity): A site dedicated to indexing Linux distros
+- [DistroChooser](https://distrochooser.de/): A useful little site to help you choose a Linux distro for use
+- [Distro Moe](https://distro.moe/): Discover a new distro with a single click
+- [ArchiveOS](https://archiveos.org/): An archiving site for Linux distros
+- [OS Click](https://os.click/en): Get Windows and Linux isos that are ready for download in a few clicks
+- [LinuxTracker](https://linuxtracker.org/): Tracks Linux distros and provides torrents 
+- [OpenSourceFeed](https://www.opensourcefeed.org/): Free Operating Systems & Desktop Environments
+- [PKGS](https://pkgs.org/): Packages for Linux and Unix
+- [Linux Comparisions](https://eylenburg.github.io/linux_comparison.htm): 
+#### Linux Projects
+- [Linux In A PDF](https://github.com/ading2210/linuxpdf):  **Linux running inside a PDF file** via a RISC-V emulator
+#### Linux Communities
+- [LinuxQuestions](https://www.linuxquestions.org/questions/): Linux Q&A Forum
+## Programming
+### Python
+- [Awesome Python](https://github.com/vinta/awesome-python): An opinionated list of awesome Python frameworks, libraries, software and resources.
+### Javascript
+-  [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript): This GitHub repository showcases techniques to create interactive web experiences without relying on JavaScript.
+- [WTFJS](https://github.com/denysdovhan/wtfjs): This repo contains a list of some crazy examples and how they work related to JavaScript.
+### BootStrap
+- [Bootstrap](https://github.com/twbs/bootstrap): Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+### React
+- [React Library](https://github.com/facebook/react): React is a JavaScript library for building user interfaces.
+### Machine Learning
+- [Machine-Learning-Deep-Learning](https://github.com/engineers-planet/Machine-Learning_Deep-learning_Free-Download):  This repository contains a collection of various **Machine Learning** and **Deep Learning** projects for free download.
+## VPNs
+- [Mullvad](https://mullvad.net/en): Mullvad is a VPN service that helps keep your online activity, identity, and location private.
+- [Windscribe](https://windscribe.com/): Simple VPN, has a free plan that gives you 10GB/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
+# Languages
+## Western Languages
+### English
+- [The Punctuation Guide](https://www.thepunctuationguide.com/): A punctuation guide for English learners
 ## Fantastical Languages
 ### Na'vi
 - [Learn Na'vi](https://learnnavi.org/): One of the best resources on the internet for learning Na'vi from James Cameron's Avatar
@@ -215,6 +280,12 @@
 - [Tirea Na'vi](https://tirea.learnnavi.org/): An interactive site that provides lessons to help non linguist Na'vi learners learn the language
 - [Na'vi Conlang](http://llama.conlang.org/navi.php): Some general knowledge about Na'vi with several links to resources
 - [100 Days of Na'vi](https://languagechaos.com/Na'vi/days/): A 100 day learning plan to help you get a grasp on Na'vi
+- [Na'viteri](https://naviteri.org/2012/10/audio-and-video-learning-materials-for-navi-101/): Audio and Video Learning Materials for Na’vi 101
+- [Learn Na'vi Discord](https://discord.com/invite/LearnNavi): The main Discord server for learning Na'vi with a large community of friendly and helpful users
+- [Na'vi Translator](https://mr-dialect.com/en-us/american-english-dialect-accent-slang-translator/navi-translator/): English to Na'vi AI Translator
+- [r/LearnNa'vi](https://www.reddit.com/r/LearnNavi/): r/LearnNavi is a hub for the many different ways to learn the Na’vi Language
+- [Na'vi Dictionary PDF](https://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf): This is the authorized and definitive dictionary for Na’vi
+- [Learn Navi YouTube](https://www.youtube.com/@learnnavi/videos): An older YouTube channel with some videos from 10 years ago on learning Na'vi
 # Misc.
 ## Misc. Educational Sites
 - [AFAIK](https://afaik.io/): Learn how everything is connected and see the big picture in an interconnected web of knowledge
