@@ -45,6 +45,12 @@
 - [AnimeXin](https://animexin.dev/): Specialized in Chinese donghua series with original fansub content and quality releases.
 - [MyAnime](https://myanime.live/): Several donghua streaming options with English subtitles accessible for international viewers.
 ## Anime Torrent Sites
+- [Nyaa](https://nyaa.si/): The most popular anime torrent site dedicated to East Asian media. Massive selection and active community.
+- [Subsplease](https://subsplease.org/): Leading subgroup providing anime with English subtitles as quickly as possible after Japanese broadcast.
+- [Beatrice-Raws](https://beatrice-raws.org/): Very high-quality raw anime torrents frequently updated and optimally encoded for best quality-to-size ratio.
+- [Erai-Raws](https://www.erai-raws.info/) (*Signup Required*): Top-tier subbing group prioritizing consistency and quality across all releases with standardized formatting.
+- [Tokyo Toshokan](https://www.tokyotosho.info/?cat=1): Comprehensive source for Japanese content including anime, manga, music, and more with organized categories.
+- [Project Acgnx](https://share.acgnx.se/) (*Chinese*): Aggregates resources from Anime Garden, Jiying BT, and Youxia BT for comprehensive Asian content coverage.
 # Blogs
 ## Educational Blogs
 ### General Educational Blogs
@@ -87,6 +93,7 @@
 - [The Free Learning List](https://freelearninglist.org/): An Australian hub of various educational resources around the Internet with a somewhat biased grading
 - [Basic Knowledge 101](https://www.basicknowledge101.com/): A knowledge base for around 500 courses across several subjects
 - [WikiVersity](https://www.wikiversity.org/): Free learning resources from the team behind Wikipedia
+- [Datacamp](https://www.datacamp.com/): Learn data and AI skills / Freemium Site
 # Documentaries
 - [IHaveNoTv](https://ihavenotv.com/): This is a **curated list of documentaries**, to offer you only the ones worth watching.
 - [Documentary+](https://www.docplus.com/): A large collection of thousands of documentaries
@@ -132,10 +139,6 @@
 - [Polymaker](https://wiki.polymaker.com/): A comprehensive wiki providing information about 3D printing
 - [DIY Biohacking](https://diyhpl.us/wiki/): A wiki for open source hardware, do-it-yourself bio hacking and practical human enhancement engineering projects which could be called transhumanism.
 - [Psychonauts](https://psychonautwiki.org/wiki/Main_Page): A community-driven online encyclopedia that aims to document psychoanutics in a comprehensive, scientifically-grounded manner.
-# YouTube Channels
-## General Educational Channels
-- [Gresham College](https://www.youtube.com/@GreshamCollege/videos): Gresham College was founded in 1597 and has been providing free lectures in the City of London for over 400 years.
-- [CrashCourse](https://www.youtube.com/@crashcourse): At Crash Course, we believe that high-quality educational videos should be available to everyone for free!
 # Forums
 ## Educational Forums
 - [CertCommunity](https://www.certcommunity.org/forum/): IT Cert Courses Forum
@@ -213,6 +216,8 @@
 - [Floorp](https://floorp.app/en-US): The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web.
 - [Firefox](https://firefox.com/): Web browser by Mozilla with Gecko and WebKit engines.
 - [Waterfox](https://www.waterfox.net/): Utilize Waterfox for a high-speed, private browsing experience on 64-bit systems.
+### Browser Extensions
+- [Spot SponsorBlock](https://spotsponsorblock.org/): Uses a user submitted database to block Spotify podcast sponsors
 ## Operating Systems
 ### Linux
 #### Linux Guides
@@ -252,6 +257,9 @@
 - [Linux In A PDF](https://github.com/ading2210/linuxpdf):  **Linux running inside a PDF file** via a RISC-V emulator
 #### Linux Communities
 - [LinuxQuestions](https://www.linuxquestions.org/questions/): Linux Q&A Forum
+#### Linux Gaming
+- [AreWeAntiCheatYet](https://areweanticheatyet.com/): A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
+- [Linux Gaming Wiki Page](https://linux-gaming.kwindu.eu/index.php?title=Main_Page): Wiki page that delves into Linux gaming and provides various guides
 ## Programming
 ### Python
 - [Awesome Python](https://github.com/vinta/awesome-python): An opinionated list of awesome Python frameworks, libraries, software and resources.
