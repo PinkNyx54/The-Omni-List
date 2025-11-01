@@ -2,7 +2,6 @@
 A collection of thousands of links I have found across the Internet and various aggregator sites like FMHY. This is meant to serve as just one giant list of everything, like a mini, more personalized Google. Hope you enjoy!
 
 Utilize common sense when visiting these sites and follow the copyright laws of your country if visiting torrent sites. 
-
 # Anime
 ## Anime Databases
 - [Anilist](https://anilist.co/): Modern, feature-rich anime and manga tracking platform with a clean interface, advanced statistics, and social features.
@@ -26,6 +25,8 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Noob Subs](https://www.noobsubs.com/): Specializes in anime with dual English audio tracks plus torrent options for convenience.
 - [Kayoanime](https://kayoanime.com/): Active community for anime fans sharing updates, news, and download links with discussion.
 - [ChauThanh](https://chauthanh.info/): Access over 5,000 high-quality anime, drama series, and soundtracks with organized categories.
+- [Kayoanime](https://kayoanime.com/): Active community for anime fans sharing updates, news, and download links with discussion.
+- [AniDL](https://anidl.org/): User-friendly site with vast anime collection from popular subbing groups. Well-organized and regularly updated.
 ## Anime Streaming Sites
 - [AnimeKai](https://anikai.to/): 12,000+ anime titles with hard/soft subs & dubs, plus AniList sync support for seamless tracking.
 - [HiAnime](https://hianime.to/): Lightning-fast streaming with downloadable subbed/dubbed anime. Excellent video quality and minimal ads.
@@ -49,6 +50,10 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [RamenFlix](https://ramenflix.com/): Offering high-quality streaming, a vast library of anime, no intrusive ads, and a user-friendly interface - all completely free.
 - [AnimeXin](https://animexin.dev/): Specialized in Chinese donghua series with original fansub content and quality releases.
 - [MyAnime](https://myanime.live/): Several donghua streaming options with English subtitles accessible for international viewers.
+- [Animepahe](https://animepahe.si/): Watch anime online for free in HD; no registration, no ads, sub and dub available.
+- [Anime Nexus](https://anime.nexus/): Streamlined dashboard design and a large selection of animes 
+- [Aniwave](https://www.aniwave.se/home-animes): Free anime streaming platform with English subtitles and dubbing options for global audience.
+- [All Manga Anime](https://allmanga.to/anime): Easy access to nice anime selection with dependable streams and regular content updates.
 ## Anime Torrent Sites
 - [Nyaa](https://nyaa.si/): The most popular anime torrent site dedicated to East Asian media. Massive selection and active community.
 - [Subsplease](https://subsplease.org/): Leading subgroup providing anime with English subtitles as quickly as possible after Japanese broadcast.
@@ -56,6 +61,67 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Erai-Raws](https://www.erai-raws.info/) (*Signup Required*): Top-tier subbing group prioritizing consistency and quality across all releases with standardized formatting.
 - [Tokyo Toshokan](https://www.tokyotosho.info/?cat=1): Comprehensive source for Japanese content including anime, manga, music, and more with organized categories.
 - [Project Acgnx](https://share.acgnx.se/) (*Chinese*): Aggregates resources from Anime Garden, Jiying BT, and Youxia BT for comprehensive Asian content coverage.
+## Anime OSTs
+- [AnimeThemes](https://animethemes.moe/): A simple and consistent repository of anime opening and ending themes
+- [Karaoke Mugen](https://kara.moe/): A karaoke site and application for anime OSTs
+- [AnisongDB](https://anisongdb.com/): A massive database of Anime OSTs
+- [Aonsoku](https://www.squidify.org/): A Spotify-like website for Anime OSTs
+- [Animusic](https://animusic.moe/): A massive database of Anime OSTs and allows for browser play
+- [One Piece Tracklist](http://onepiecetracklist.com/#/1): A complete track list for One Piece
+- [Sitting on Clouds](https://www.sittingonclouds.net/): A massive collection of constantly updating Anime OSTs
+- [SUKIDESUOST](https://sukidesuost.info/): Download Japan Music with High Quality MP3/FLAC/Hi-res
+- [osanime](https://osanime.com/): An older-themed UI website with mp3 downloads
+- [SAKURA OST](https://www.sakuraost.com/): A massive collection of constantly updating Anime OSTs
+## Manga
+- [MangaDex](https://mangadex.org/): MangaDex is an online manga reader that caters to all languages
+- [Weeb Central](https://weebcentral.com/): A regularly updated fan site for manga releases
+- [BATOTO](https://battwo.com/v3x): BATO is a non-profit community-run comic-sharing platform created by comic fans for comic fans
+- [MangaFire](https://mangafire.to/home): A regularly updated fan site for manga releases
+- [MangaPark](https://mangapark.net/): A massive collection of community uploaded manga
+- [MangaKatana](https://mangakatana.com/): A massive collection of completed and ongoing manga
+- [Cubari Proxy](https://proxy.cubari.moe/#/): A massive collection of completed and ongoing manga
+- [MangaBuddy](https://mangabuddy.com/official): MangaBuddy is a promotion free manga website that permits clients to peruse and download large number of manga
+- [MangaHub](https://mangahub.io/): A massive collection of completed and ongoing manga
+### Manga Scans
+- [Assorted Scans](https://assortedscans.com/): This site functions as a scanlation aggregator of sorts for a selection of scanlation groups.
+- [Danke fürs Lesen](https://danke.moe/): A small collection of manga scans
+- [LHTranslation](https://lhtranslation.net/home/): A manga scanner site with around 100 scans and growing
+- [Tritinia Scans](https://tritinia.org/): A small collection of manga scans
+- [Asura Scans](https://asuracomic.net/): A massive collection of manga scans | One of the bigger names
+- [Flame Comics](https://flamecomics.xyz/): Flame Comics is a hub for manga, manhua, and manhwa enthusiasts to read, discuss, and share quality stories
+- [Void Scans](https://hivetoons.org/): A massive collection of manga scans
+- [Zero Scans](https://zscans.com/): A small collection of manga scans
+- [ManhuaPlus](https://manhuaplus.com/): A massive collection of manga scans
+- [Rizz Comic](https://rizzcomic.com/): A massive collection of manga scans
+## Light Novels
+- [Novel Updates](https://www.novelupdates.com/): Massive collection of light novel translations
+- [Baka-Tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_page): Baka-Tsuki (BT) is a fan translation community that hosts translations for light novels in the Wiki format
+- [Nov Love](https://novlove.com/): A collection of hundreds of regularly updated light novel translations
+- [VyNovel](https://vynovel.com/): A collection of 15000+ light novel translations
+- [NovelBuddy](https://novelbuddy.com/home): A collection of 5000+ light novel translations
+- [Wuxiaworld](https://www.wuxiaworld.com/): A massive collection of Chinese-to-English light novel translations
+- [Ganba's DDL sheet](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml?pli=1): A Google Doc with about 100 officially translated light novels
+- [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/): A large database of translated light novels
+- [Just Light Novels](https://www.justlightnovels.com/): A collection of 1000+ light novel translations
+# Archives
+- [Desuarchive](https://desuarchive.org/): Desuarchive is an unofficial archive of certain boards of 4chan.org
+- [Internet Archive](https://archive.org/): Internet Archive is a non-profit library of millions of free texts, movies, software, music, websites, and more.
+- [Anna’s Archive](https://annas-archive.org/): The largest truly open library in human history
+- [Frutiger Aero Archive](https://frutigeraeroarchive.org/): A website dedicated to archiving wallpapers, music, videos, and other media from the Frutiger Aero aesthetic
+- [Micronational Banknote Museum](https://mnbanknotes.neocities.org/): A collection of micronational banknotes and the stories behind them
+- [Internet Based Ghosts](https://internetbasedghosts.neocities.org/): A small archive site created by a data hoarder and featuring some document and audio archives
+- [Betty's Graphics](https://bettysgraphics.neocities.org/): The largest hand-curated graphics archive on Neocities featuring nearly 17000 images
+- [The Denpa Archive V3](https://denpaarchive.neocities.org/): A small archive of denpa/psychological horror works
+- [Vila's Furry Archive](https://vilaa.neocities.org/): A small archive of furry art
+- [Smileys](https://freesmileyfacesde.neocities.org/): A small archive of animated smiley gifs
+- [Venus' Record Archiving](https://venusrecordarchiving.neocities.org/): A small archive of digitized vinyl records
+- [The Library of Dead and Abandoned Malls](https://deadmalls-library.neocities.org/): This site is dedicated to documenting and archiving all dead/abandoned malls within the United States
+- [Library of Congress](https://www.loc.gov/): The Library of Congress is the largest library in the world and is the main research arm of the U.S. Congress and the home of the U.S. Copyright Office.
+- [Archive-It](https://archive-it.org/): The leading service for preserving and accessing digital cultural heritage
+- [National Library of Medicine](https://collections.nlm.nih.gov/): Massive archive of digital content in the areas of bio medicine, health care, and the history of medicine
+- [National Archives](https://www.archives.gov/): The National Archives and Records Administration (NARA) is the United State's record keeper
+- [The Travel Film Archive](https://www.travelfilmarchive.com/): The Travel Film Archive is a collection of travelogues and educational and industrial films that show the world the way it was between 1900 and 1970
+- [Library and Archives Canada](https://www.canada.ca/en/library-archives.html): A massive archive of documents related to Canada and Canadians
 # Blogs
 ## Educational Blogs
 ### General Educational Blogs
@@ -172,6 +238,7 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Alchemy Forum](https://alchemyforums.com/index.php): A forum dedicated to the ancient art of Alchemy
 ## Misc. Forums
 - [Shroomery](https://www.shroomery.org/): We help spread accurate information about magic mushrooms so people can make informed decisions about what they put in their bodies.
+- [SquidBoard](https://www.squid-board.org/): Our squids will find anything you need!
 # Subreddits
 ## Educational Subreddits
 - [r/Documentaries](https://www.reddit.com/r/Documentaries/): Reddit's main subreddit for documentaries.
@@ -403,8 +470,10 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Activist Handbook](https://activisthandbook.org/): Learn how to become an activist, plan a political campaign strategy, and start a grassroots movement
 - [HortusFox](https://www.hortusfox.com/): Collaborative self-hosted plant tracking & management
 - [OpenApply](https://openapply.app/): Allows you to track job applications in a nice UI | Allows for self hosting | Free except for the AI features
+- [JP Files](https://jpfiles.net/): A massive collection of various Japanese related content
 ## Wikipedia Articles
 - [Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions): Common misconceptions are viewpoints or factoids that are often accepted as true, but which are actually false.
+- [OpenCourseWare](https://en.wikipedia.org/wiki/OpenCourseWare): Wikipedia page for Open Course Ware. Another good way to discover free and quality content from around the world
 # Productivity 
 ## Note Taking Apps
 - [Alexandrie-hub](https://alexandrie-hub.fr/): An open source and self hosted Markdown note taking application
