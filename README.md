@@ -73,8 +73,8 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [osanime](https://osanime.com/): An older-themed UI website with mp3 downloads
 - [SAKURA OST](https://www.sakuraost.com/): A massive collection of constantly updating Anime OSTs
 ## Manga
-- [MangaDex](https://mangadex.org/): MangaDex is an online manga reader that caters to all languages
 - [Weeb Central](https://weebcentral.com/): A regularly updated fan site for manga releases
+- [MangaDex](https://mangadex.org/): MangaDex is an online manga reader that caters to all languages
 - [BATOTO](https://battwo.com/v3x): BATO is a non-profit community-run comic-sharing platform created by comic fans for comic fans
 - [MangaFire](https://mangafire.to/home): A regularly updated fan site for manga releases
 - [MangaPark](https://mangapark.net/): A massive collection of community uploaded manga
@@ -122,180 +122,13 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [National Archives](https://www.archives.gov/): The National Archives and Records Administration (NARA) is the United State's record keeper
 - [The Travel Film Archive](https://www.travelfilmarchive.com/): The Travel Film Archive is a collection of travelogues and educational and industrial films that show the world the way it was between 1900 and 1970
 - [Library and Archives Canada](https://www.canada.ca/en/library-archives.html): A massive archive of documents related to Canada and Canadians
+- [USGenWeb](https://usgenweb.org/): Provides free genealogy resources for all 50 states
 # Blogs
 ## Educational Blogs
 ### General Educational Blogs
 - [How Stuff Works](https://www.howstuffworks.com/): Learn How Everything Works!
 ### Math Educational Blogs
 - [Matthen Blog](https://blog.matthen.com/): A small collection of math and science animations
-# Courses
-## Course Torrent Sites
-- [1337x Tutorials](https://1337x.to/sub/34/0/): List of course torrents on 1337x
-- [DevCourseWeb](https://devcourseweb.com/tutorials/): A collection of IT and Dev courses across a variety of topics
-- [DownloadFreeCourse](https://downloadfreecourse.com/): A large collection of Udemy courses for download on dozens of topics
-- [FreeCourseSite](https://fcsnew.net/): Highly rated collection of Udemy Torrents
-## Course DDL Sites
-- [FreeCourseWeb](https://freecourseweb.com/tutorialsv4/): A large collection of IT and Dev courses across a variety of topics
-- [FreeEducationWeb](https://freeeducationweb.com/): One of the best and largest sites for finding courses on dozens of topics
-- [Tut4It](https://tut4it.com/): Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
-- [HacksNation](https://hacksnation.com/): A community where Everyone can Learn, Discuss, Help, and share knowledge
-- [Online Course Club](https://online-courses.club/): A large collection of 5000+ CG-related courses
-## Online Course Sites
-- [LabEx](https://labex.io/learn): Learn Linux, DevOps & Cybersecurity with Hands-on Labs
-- [LearnOutLoud](https://www.learnoutloud.com/): A collection of over 50,000 audiobooks, courses, podcasts, and documentaries
-- [ClassCentral](https://www.classcentral.com/): Class Central is a massive course aggregator that provides you links and information on hundreds of thousands of courses
-- [Liminology](https://limnology.co/): Provides a list of 70,000+ educational YouTube Channels 
-- [Coursevania](https://coursevania.com/): Finding the right Online Course is difficult, Coursevania makes it easy for you get free course with certificate
-- [EdX](https://www.edx.org/): edX is the online learning platform from Harvard and MIT as an experiment to make the world’s best education available to everyone.
-- [MIT OpenCourseWare](https://ocw.mit.edu/): MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses.
-- [Khan Academy](https://www.khanacademy.org/): Learn with millions of people worldwide by exploring videos, tackling practice problems and getting AI-powered support.
-- [Course Buffet](https://www.coursebuffet.com/): Find and compare hundreds of free online courses (MOOCs) from over 250 Universities
-- [Git - Comprehensive Online Learning Platform](https://en.git.ir/): Learn skills and change your Present and Future!
-- [OpenLearn](https://www.open.edu/openlearn/): OpenLearn works with other organisations by providing free courses and resources
-- [Alison](https://alison.com/): Free Online Courses With Certificates & Diplomas
-- [Saylor University](https://learn.saylor.org/): Learn new skills or earn credit towards a degree - at your own pace, with no deadlines
-- [EbookFoundation Courses](https://ebookfoundation.github.io/free-programming-books-search/): Freely available programming books
-- [OpenCulture](https://www.openculture.com/freeonlinecourses): 1,700 Free Online Courses from Top Universities
-- [Digital Garage](https://grow.google/intl/uk/courses-and-tools/): Hundreds of courses offered by Google on its various products
-- [OpenHPI](https://open.hpi.de/): openHPI is the digital education platform of the Hasso Plattner Institute, Potsdam, Germany.
-- [Open Learning Initiative](https://oli.cmu.edu/independent-learner-courses/): Open & Low-Cost Courses for Independent Learners
-- [VideoLecture](https://videolectures.net/): Provides hundreds of lectures in video form, making for easier learning
-- [TutFlix](https://tutflix.org/): A Place Where You Can Learn Any Course Online And Discuss Your Problem With Each Other, Help Others And Contribute Resources on Forum
-- [TechNet24](https://technet24.ir/category/videos): Persian Website with a large number of courses available for download
-- [Wisc Online](https://www.wisc-online.com/): Wisconsin's hub for online learning
-- [The Free Learning List](https://freelearninglist.org/): An Australian hub of various educational resources around the Internet with a somewhat biased grading
-- [Basic Knowledge 101](https://www.basicknowledge101.com/): A knowledge base for around 500 courses across several subjects
-- [WikiVersity](https://www.wikiversity.org/): Free learning resources from the team behind Wikipedia
-- [Datacamp](https://www.datacamp.com/): Learn data and AI skills / Freemium Site
-- [The Odin Project](https://www.theodinproject.com/dashboard): The Odin Project provides a free open source coding curriculum that can be taken entirely online.
-- [Udacity](https://www.udacity.com/): It offers nanodegree programs and courses in the latest tech skills
-- [OER Commons](https://oercommons.org/): A public digital library of open educational resources
-- [AcademicEarth](https://academicearth.org/): It offers free online video courses and academic lectures from the world’s top universities
-- [OpenStax](https://openstax.org/): A nonprofit organization that offers free, peer-reviewed, openly-licensed textbooks
-- [Language Transfer](https://www.languagetransfer.org/): A free, audio-based language learning platform that offers comprehensive courses in multiple languages
-- [Open Textbook Library](https://open.umn.edu/opentextbooks): Avail free, peer-reviewed, openly-licensed textbooks that can be used, adapted and distributed by anyone
-- [Swayam Central](https://swayam.gov.in/): Offers courses, programs and degrees from various universities and institutions in India
-- [NPTEL](https://nptel.ac.in/): Provides courses and certification programs from the Indian Institutes of Technology and the Indian Institute of Science
-- [TOCEC](https://www.tocec.org.tw/web/index.jsp): Offers courses and resources from various universities and institutions in Taiwan
-- [free Code Camp](https://www.freecodecamp.org/): Provides free online courses and certifications in web development, data science, machine learning and more
-# Documentaries
-- [IHaveNoTv](https://ihavenotv.com/): This is a **curated list of documentaries**, to offer you only the ones worth watching.
-- [Documentary+](https://www.docplus.com/): A large collection of thousands of documentaries
-- [Top Documentary Films](https://topdocumentaryfilms.com/): A small collection featuring around 3,000 documentaries and adding more every day
-- [Thought Maybe](https://thoughtmaybe.com/): Thought Maybe is an online library of films focused on topics challenging modern society, industrial civilisation, globalisation and its dominant culture.
-- [MediaBurn](https://mediaburn.org/): Media Burn is a nonprofit dedicated to video’s overlooked histories and its most fiercely independent voices, from the 1960s to today.
-- [Documentary Heaven](https://documentaryheaven.com/): A website with thousands of free thought-provoking documentaries for you to choose from which fall into a wide range of categories.
-- [ARTE](https://www.arte.tv/en/): Documentaries, films, series, concerts, magazine shows
-- [Documentary Network](https://documentary.net/): Explore the world with amazing videos.
-- [Documentary Storm](https://www.documentarystorm.com/): We curate only the finest full-length documentaries, carefully selected to enlighten, challenge, and captivate.
-- [Documentary Tube](https://www.documentarytube.com/): A small collection of 4,000 documentaries and new ones being added daily
-- [Rocumentaries](https://rocumentaries.com/): A tiny collection of around 240 documentaries
-- [Watch Documentaries](https://watchdocumentaries.com/): A leading collection of curated documentaries
-- [PBS](https://www.pbs.org/): PBS and their member stations are America’s largest classroom, the nation’s largest stage for the arts and a trusted window to the world.
-- [National Geographic](https://www.nationalgeographic.com/tv/): Large collection of documentaries but requires a TV Provider to access
-- [Folk Streams](https://www.folkstreams.net/): Folkstreams is a non-profit dedicated to finding, preserving, contextualizing, and showcasing documentary films on American traditional cultures.
-- [Films for Action](https://www.filmsforaction.org/): A collection of 6,000+ documentaries
-- [VideoNeat](https://www.videoneat.com/): A collection curating wonderful science materials for humans
-- [SPRWorld](https://www.sprword.com/all.html):  Mostly hogwash documentaries but interesting from the viewpoint of an archivist
-- [Documentary Area](https://www.documentaryarea.com/): A collection of around 4,000 documentaries
-- [Work Lizard](https://worklizard.com/groups/documentaries/): This site is dedicated to documentaries of all genres – carefully curated through a full library of free streamed documentary films.
-# Video Educational Sites
-- [Ted Talk](https://www.ted.com/): TED Members help billions of people worldwide access inspiring ideas.
-- [Archive.Org/Movies](https://archive.org/details/movies): A massive collection of archived documentaries, movies, etc
-- [media.ccc.de](https://media.ccc.de/):  A large collection of educational presentations on thousands of topics
-- [Animagraffs](https://animagraffs.com/): A collection of animated infographics on how various machines and things in our daily lives works
-# Educational Games
-- [Memory Toys](https://memory.toys/): A collection of four memory based games to play and enjoy
-- [Dual N Back](https://nbacking.com/): In n-back task you need to remember n previous spatial or auditory stimuli.
-- [Brain Scale](https://brainscale.net/): This site contains brain training exercises and games.
-# Movies & TV Shows
-## Movie & TV Show Streaming Sites
-- [Cineby](https://www.cineby.gd/): Premium streaming experience with anime, movies, and TV shows. Clean interface and reliable servers.
-- [Xprime](https://xprime.tv/): Versatile streaming platform featuring anime, movies, and TV series with high-quality video and reliable servers.
-- [Flixer](https://flixer.sh/): Multi-content streaming service offering anime alongside movies and TV shows with user-friendly interface.
-- [VeloraTV](https://veloratv.ru/): Russian-based streaming platform providing anime content with multiple language options and quality streams.
-- [BingeWatch](https://bingewatch.to/home): Over 66,000 Movies and TV Show Episodes available and still updating.
-- [Nepu](https://nepu.to/): A well designed and massive collection of Movies, TV Shows, Anime, and Ebooks
-- [Yes! Movies](https://ww1.yesmovies.ag/yes.html): A large collection of movies and TV Shows to enjoy
-- [UniqueStream](https://uniquestream.net/): Enjoy a Netflix like UI and a large collection of movies and TV Shows
-- [PressPlay](https://pressplay.top/public/): A large collection of movies and TV Shows to enjoy
-- [Best Series](https://bstsrs.in/): A dated UI and a large collection of TV show episodes
-- [CriaFlix](https://en.criaflix-live.com/home): A large collection of movies and TV Shows to enjoy
-- [PopcornMovies](https://popcornmovies.org/): 70,000+ Movies 35,000+ TV Shows And Live Broadcasts
-- [Putlocker](https://putlocker.pe/): A massive collection of over 100,000+ Movies and TV Shows
-# Wikis
-## General Knowledge Wikis
-- [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia): A large wiki about sustainability and poverty reduction
-- [Polymaker](https://wiki.polymaker.com/): A comprehensive wiki providing information about 3D printing
-- [DIY Biohacking](https://diyhpl.us/wiki/): A wiki for open source hardware, do-it-yourself bio hacking and practical human enhancement engineering projects which could be called transhumanism.
-- [Psychonauts](https://psychonautwiki.org/wiki/Main_Page): A community-driven online encyclopedia that aims to document psychoanutics in a comprehensive, scientifically-grounded manner.
-# Forums
-## Educational Forums
-- [CertCommunity](https://www.certcommunity.org/forum/): IT Cert Courses Forum
-- [Stack Exchange](https://stackexchange.com/): Stack Overflow and the Stack Exchange network help people find the answers they need, when they need them.
-- [LockPicking101](https://www.lockpicking101.com/): A community dedicated to the fun and ethical hobby of lock picking.
-## Mystic Arts
-- [Alchemy Forum](https://alchemyforums.com/index.php): A forum dedicated to the ancient art of Alchemy
-## Misc. Forums
-- [Shroomery](https://www.shroomery.org/): We help spread accurate information about magic mushrooms so people can make informed decisions about what they put in their bodies.
-- [SquidBoard](https://www.squid-board.org/): Our squids will find anything you need!
-# Subreddits
-## Educational Subreddits
-- [r/Documentaries](https://www.reddit.com/r/Documentaries/): Reddit's main subreddit for documentaries.
-- [r/coolguides](https://www.reddit.com/r/coolguides/): Picture based reference guides for anything and everything.
-- [r/educationalgifs](https://www.reddit.com/r/educationalgifs/): Gifs are great at getting quick to digest info, and /r/educationalgifs strives to give you educational info in this quick to digest format.
-- [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/): Explain Like I'm Five is the best forum and archive on the internet for layperson-friendly explanations.
-## Sailing the High Seas
-- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/): The subreddit for the largest collection of free stuff on the internet.
-- [r/piracy](https://www.reddit.com/r/Piracy/): Dedicated to the discussion of digital piracy, including ethical problems and legal advancements.
-# Telegram Groups
-- [Udemy FREE](https://t.me/udemyforu): Discover daily free and 100% off Udemy courses
-- [Coursevania TG](https://t.me/Coursevania): No.1 Channel On Telegram To get UDEMY Coupons 
-- [Linkedin_Learning](https://t.me/linkedin_learning): Download and watch Linkedin Learning Courses
-- [Herbology](https://t.me/HerbologyY): Herbism, Wortcunning, Recipies, Witchcraft and Magickal Plants Studies
-- [Hypnosis Chat Books](https://t.me/HypnosisChatBooks): A collection of books on the art of hypnosis
-# GitHubs
-## API Githubs
-- [Public APIs](https://github.com/public-apis/public-apis): collective list of free APIs for use in software and web development.
-## Dev Project GitHubs
-- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
-## Educational GitHubs
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): A GitHub repository with over a thousand eBooks on dozens of programming languages.
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file): This community-supported project offers various learning roadmaps divided into role and skill-based categories.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): This repository contains a curated collection of tools, manuals, cheat sheets, and resources for IT professionals.
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love): It is a GitHub repository dedicated to collecting and sharing influential computer science papers.
-- [The Ultimate Cheat Sheet Collection](https://github.com/Fechin/reference): Reference is a collection of cheat sheets contributed by open source angels.
-- [Awesome](https://github.com/sindresorhus/awesome): The Awesome repository is a community of knowledgeable or passionate people that curate lists on various topics
-- [Awesome Courses](https://github.com/prakhar1989/awesome-courses/): This list is an attempt to bring to light awesome CS courses
-- [OSSU](https://github.com/ossu/): Empowering learners to master college curricula through free resources. Choose a major and start today!
-- [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games): A curated list of awesome educational games to learn editors, languages, programming, etc
-## Interviewing GitHubs
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university): This repository covers different questions for your next coding interview.
-- [DevOPS Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions): Collection of 1100+ DevOps interview questions with detailed answers
-## Misc. GitHubs
-- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood): A curated list of falsehoods programmers believe in.
-- [Programming Excuses](https://github.com/CrossNox/programmingexcuses?tab=readme-ov-file): It’s a fun project designed to generate excuses that developers can use when their code isn’t working or when they don’t feel like coding.
-- [Resume GitHub](https://github.com/resume/resume.github.com): Automatically generate a **resume from your GitHub profile** – super handy for developers
-- [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements): A collection listing all Achievements available on the GitHub profile.
-## Privacy GitHubs
-- [DeGoogle](https://github.com/tycrek/degoogle): This repository includes recommendations for tools that prioritize user privacy and data security.
-## Useful Tool GitHubs
-- [MD2PDF](https://github.com/realdennis/md2pdf): A fantastic tool to convert **Markdown to PDF**
-- [Diagram as Code](https://github.com/RominaElenaMendezEscobar/diagram-as-code): **Diagram as Code** is an approach that allows you to create diagrams through code instead of traditional graphic tools.
-- [UdemyPY](https://github.com/dylannalex/UdemyPy): UdemyPy is an open-source Python project with the mission of making education accessible to everybody.
-# Hobby/Skill Websites
-- [PlaneSpotters](https://www.planespotters.net/): Provides information on tens of thousands of different aircraft, airlines, and air-frames with millions of photos
-- [ShipSpotting](https://www.shipspotting.com/): Much like PlanSpotters but with ships
-- [Rookie Road](https://www.rookieroad.com/): The sports encyclopedia of the internet
-- [Make It Yourself](https://makeityourself.org/): Make it Yourself is a digital book that showcases incredible talent, bringing together over 1000 useful DIY projects
-- [Animated Knots](https://www.animatedknots.com/): Animated Knots by Grog is the web’s #1 site for learning how to tie knots.
-- [Net Knots](https://www.netknots.com/): Well illustrated list of various knots to help you learn dozens of different knots
-- [Ian's Shoelace Site](https://www.fieggen.com/shoelace/): If you want to lace shoes, tie shoes or learn about shoelaces – this is the place!
-- [Perry Morse](https://www.perry.qa/morse): Interactive site for learning Morse Code
-- [Morse Typing Trainer](https://morse.withgoogle.com/learn/): Typing site for learning Morse Code by Google
-- [LCWO](https://lcwo.net/): Learn Morse Code Online
-- [Library of Juggling](https://libraryofjuggling.com/): The Library of Juggling is an attempt to list all of the popular (and perhaps not so popular) juggling tricks in one organized place.
-- [Bridge Command](https://www.bridgecommand.co.uk/): An interactive 3d ship & radar simulator
 # Computers
 ## AI
 - [GPT4All](https://www.nomic.ai/gpt4all): An ecosystem of open-source chat bots trained on a massive collections of clean assistant data including code, stories and dialogue.
@@ -421,10 +254,145 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Mullvad](https://mullvad.net/en): Mullvad is a VPN service that helps keep your online activity, identity, and location private.
 - [Windscribe](https://windscribe.com/): Simple VPN, has a free plan that gives you 10GB/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
 - [WARP](https://one.one.one.one/): 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol.
+- [RiseupVPN](https://riseup.net/en/vpn): Riseup offers Personal VPN service for censorship circumvention, location anonymization and traffic encryption
+- [ProtonVPN](https://protonvpn.com/): Swiss-based no-logs VPN that offers a free plan | No torrenting on the free plan
+- [AirVPN](https://airvpn.org/): Paid VPN based on OpenVPN and WireGuard
+- [IVPN](https://www.ivpn.net/en/): Paid VPN 
+- [PrivadoVPN](https://privadovpn.com/software/?device=firefox): Newer VPN based in Switzerland that offers free/premium plans
+- [Calyx VPN](https://calyxos.org/docs/guide/apps/calyx-vpn/): Free VPN that provides routing through Calyx's servers
+### VPN Guides
+- [OpenVPN for Proton VPN](https://protonvpn.com/support/vpn-config-download): A short guide on how to do OpenVPN configs for Proton VPN to allow for torrenting on the free plan
 ## Typing
 - [Monkeytype](https://monkeytype.com/): A minimalistic, customizable typing test
 - [Keybr](https://www.keybr.com/): This web application will help you to learn _touch typing_ which means typing through muscle memory without using your eyesight to find the keys
 - [Typing.com](https://www.typing.com/): Standards-aligned typing curriculum featuring gamified lessons, test prep, and powerful classroom management tools
+# Courses
+## Course Torrent Sites
+- [1337x Tutorials](https://1337x.to/sub/34/0/): List of course torrents on 1337x
+- [DevCourseWeb](https://devcourseweb.com/tutorials/): A collection of IT and Dev courses across a variety of topics
+- [DownloadFreeCourse](https://downloadfreecourse.com/): A large collection of Udemy courses for download on dozens of topics
+- [FreeCourseSite](https://fcsnew.net/): Highly rated collection of Udemy Torrents
+## Course DDL Sites
+- [FreeCourseWeb](https://freecourseweb.com/tutorialsv4/): A large collection of IT and Dev courses across a variety of topics
+- [FreeEducationWeb](https://freeeducationweb.com/): One of the best and largest sites for finding courses on dozens of topics
+- [Tut4It](https://tut4it.com/): Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+- [HacksNation](https://hacksnation.com/): A community where Everyone can Learn, Discuss, Help, and share knowledge
+- [Online Course Club](https://online-courses.club/): A large collection of 5000+ CG-related courses
+## Online Course Sites
+- [LabEx](https://labex.io/learn): Learn Linux, DevOps & Cybersecurity with Hands-on Labs
+- [LearnOutLoud](https://www.learnoutloud.com/): A collection of over 50,000 audiobooks, courses, podcasts, and documentaries
+- [ClassCentral](https://www.classcentral.com/): Class Central is a massive course aggregator that provides you links and information on hundreds of thousands of courses
+- [Liminology](https://limnology.co/): Provides a list of 70,000+ educational YouTube Channels 
+- [Coursevania](https://coursevania.com/): Finding the right Online Course is difficult, Coursevania makes it easy for you get free course with certificate
+- [EdX](https://www.edx.org/): edX is the online learning platform from Harvard and MIT as an experiment to make the world’s best education available to everyone.
+- [MIT OpenCourseWare](https://ocw.mit.edu/): MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses.
+- [Khan Academy](https://www.khanacademy.org/): Learn with millions of people worldwide by exploring videos, tackling practice problems and getting AI-powered support.
+- [Course Buffet](https://www.coursebuffet.com/): Find and compare hundreds of free online courses (MOOCs) from over 250 Universities
+- [Git - Comprehensive Online Learning Platform](https://en.git.ir/): Learn skills and change your Present and Future!
+- [OpenLearn](https://www.open.edu/openlearn/): OpenLearn works with other organisations by providing free courses and resources
+- [Alison](https://alison.com/): Free Online Courses With Certificates & Diplomas
+- [Saylor University](https://learn.saylor.org/): Learn new skills or earn credit towards a degree - at your own pace, with no deadlines
+- [EbookFoundation Courses](https://ebookfoundation.github.io/free-programming-books-search/): Freely available programming books
+- [OpenCulture](https://www.openculture.com/freeonlinecourses): 1,700 Free Online Courses from Top Universities
+- [Digital Garage](https://grow.google/intl/uk/courses-and-tools/): Hundreds of courses offered by Google on its various products
+- [OpenHPI](https://open.hpi.de/): openHPI is the digital education platform of the Hasso Plattner Institute, Potsdam, Germany.
+- [Open Learning Initiative](https://oli.cmu.edu/independent-learner-courses/): Open & Low-Cost Courses for Independent Learners
+- [VideoLecture](https://videolectures.net/): Provides hundreds of lectures in video form, making for easier learning
+- [TutFlix](https://tutflix.org/): A Place Where You Can Learn Any Course Online And Discuss Your Problem With Each Other, Help Others And Contribute Resources on Forum
+- [TechNet24](https://technet24.ir/category/videos): Persian Website with a large number of courses available for download
+- [Wisc Online](https://www.wisc-online.com/): Wisconsin's hub for online learning
+- [The Free Learning List](https://freelearninglist.org/): An Australian hub of various educational resources around the Internet with a somewhat biased grading
+- [Basic Knowledge 101](https://www.basicknowledge101.com/): A knowledge base for around 500 courses across several subjects
+- [WikiVersity](https://www.wikiversity.org/): Free learning resources from the team behind Wikipedia
+- [Datacamp](https://www.datacamp.com/): Learn data and AI skills / Freemium Site
+- [The Odin Project](https://www.theodinproject.com/dashboard): The Odin Project provides a free open source coding curriculum that can be taken entirely online.
+- [Udacity](https://www.udacity.com/): It offers nanodegree programs and courses in the latest tech skills
+- [OER Commons](https://oercommons.org/): A public digital library of open educational resources
+- [AcademicEarth](https://academicearth.org/): It offers free online video courses and academic lectures from the world’s top universities
+- [OpenStax](https://openstax.org/): A nonprofit organization that offers free, peer-reviewed, openly-licensed textbooks
+- [Language Transfer](https://www.languagetransfer.org/): A free, audio-based language learning platform that offers comprehensive courses in multiple languages
+- [Open Textbook Library](https://open.umn.edu/opentextbooks): Avail free, peer-reviewed, openly-licensed textbooks that can be used, adapted and distributed by anyone
+- [Swayam Central](https://swayam.gov.in/): Offers courses, programs and degrees from various universities and institutions in India
+- [NPTEL](https://nptel.ac.in/): Provides courses and certification programs from the Indian Institutes of Technology and the Indian Institute of Science
+- [TOCEC](https://www.tocec.org.tw/web/index.jsp): Offers courses and resources from various universities and institutions in Taiwan
+- [free Code Camp](https://www.freecodecamp.org/): Provides free online courses and certifications in web development, data science, machine learning and more
+# Documentaries
+- [IHaveNoTv](https://ihavenotv.com/): This is a **curated list of documentaries**, to offer you only the ones worth watching.
+- [Documentary+](https://www.docplus.com/): A large collection of thousands of documentaries
+- [Top Documentary Films](https://topdocumentaryfilms.com/): A small collection featuring around 3,000 documentaries and adding more every day
+- [Thought Maybe](https://thoughtmaybe.com/): Thought Maybe is an online library of films focused on topics challenging modern society, industrial civilisation, globalisation and its dominant culture.
+- [MediaBurn](https://mediaburn.org/): Media Burn is a nonprofit dedicated to video’s overlooked histories and its most fiercely independent voices, from the 1960s to today.
+- [Documentary Heaven](https://documentaryheaven.com/): A website with thousands of free thought-provoking documentaries for you to choose from which fall into a wide range of categories.
+- [ARTE](https://www.arte.tv/en/): Documentaries, films, series, concerts, magazine shows
+- [Documentary Network](https://documentary.net/): Explore the world with amazing videos.
+- [Documentary Storm](https://www.documentarystorm.com/): We curate only the finest full-length documentaries, carefully selected to enlighten, challenge, and captivate.
+- [Documentary Tube](https://www.documentarytube.com/): A small collection of 4,000 documentaries and new ones being added daily
+- [Rocumentaries](https://rocumentaries.com/): A tiny collection of around 240 documentaries
+- [Watch Documentaries](https://watchdocumentaries.com/): A leading collection of curated documentaries
+- [PBS](https://www.pbs.org/): PBS and their member stations are America’s largest classroom, the nation’s largest stage for the arts and a trusted window to the world.
+- [National Geographic](https://www.nationalgeographic.com/tv/): Large collection of documentaries but requires a TV Provider to access
+- [Folk Streams](https://www.folkstreams.net/): Folkstreams is a non-profit dedicated to finding, preserving, contextualizing, and showcasing documentary films on American traditional cultures.
+- [Films for Action](https://www.filmsforaction.org/): A collection of 6,000+ documentaries
+- [VideoNeat](https://www.videoneat.com/): A collection curating wonderful science materials for humans
+- [SPRWorld](https://www.sprword.com/all.html):  Mostly hogwash documentaries but interesting from the viewpoint of an archivist
+- [Documentary Area](https://www.documentaryarea.com/): A collection of around 4,000 documentaries
+- [Work Lizard](https://worklizard.com/groups/documentaries/): This site is dedicated to documentaries of all genres – carefully curated through a full library of free streamed documentary films.
+# Educational Games
+- [Memory Toys](https://memory.toys/): A collection of four memory based games to play and enjoy
+- [Dual N Back](https://nbacking.com/): In n-back task you need to remember n previous spatial or auditory stimuli.
+- [Brain Scale](https://brainscale.net/): This site contains brain training exercises and games.
+# Forums
+## Educational Forums
+- [CertCommunity](https://www.certcommunity.org/forum/): IT Cert Courses Forum
+- [Stack Exchange](https://stackexchange.com/): Stack Overflow and the Stack Exchange network help people find the answers they need, when they need them.
+- [LockPicking101](https://www.lockpicking101.com/): A community dedicated to the fun and ethical hobby of lock picking.
+## Mystic Arts
+- [Alchemy Forum](https://alchemyforums.com/index.php): A forum dedicated to the ancient art of Alchemy
+## Misc. Forums
+- [Shroomery](https://www.shroomery.org/): We help spread accurate information about magic mushrooms so people can make informed decisions about what they put in their bodies.
+- [SquidBoard](https://www.squid-board.org/): Our squids will find anything you need!
+# GitHubs
+## API Githubs
+- [Public APIs](https://github.com/public-apis/public-apis): collective list of free APIs for use in software and web development.
+## Dev Project GitHubs
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+## Educational GitHubs
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): A GitHub repository with over a thousand eBooks on dozens of programming languages.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file): This community-supported project offers various learning roadmaps divided into role and skill-based categories.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): This repository contains a curated collection of tools, manuals, cheat sheets, and resources for IT professionals.
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love): It is a GitHub repository dedicated to collecting and sharing influential computer science papers.
+- [The Ultimate Cheat Sheet Collection](https://github.com/Fechin/reference): Reference is a collection of cheat sheets contributed by open source angels.
+- [Awesome](https://github.com/sindresorhus/awesome): The Awesome repository is a community of knowledgeable or passionate people that curate lists on various topics
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses/): This list is an attempt to bring to light awesome CS courses
+- [OSSU](https://github.com/ossu/): Empowering learners to master college curricula through free resources. Choose a major and start today!
+- [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games): A curated list of awesome educational games to learn editors, languages, programming, etc
+## Interviewing GitHubs
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university): This repository covers different questions for your next coding interview.
+- [DevOPS Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions): Collection of 1100+ DevOps interview questions with detailed answers
+## Misc. GitHubs
+- [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood): A curated list of falsehoods programmers believe in.
+- [Programming Excuses](https://github.com/CrossNox/programmingexcuses?tab=readme-ov-file): It’s a fun project designed to generate excuses that developers can use when their code isn’t working or when they don’t feel like coding.
+- [Resume GitHub](https://github.com/resume/resume.github.com): Automatically generate a **resume from your GitHub profile** – super handy for developers
+- [GitHub Profile Achievements](https://github.com/Schweinepriester/github-profile-achievements): A collection listing all Achievements available on the GitHub profile.
+## Privacy GitHubs
+- [DeGoogle](https://github.com/tycrek/degoogle): This repository includes recommendations for tools that prioritize user privacy and data security.
+## Useful Tool GitHubs
+- [MD2PDF](https://github.com/realdennis/md2pdf): A fantastic tool to convert **Markdown to PDF**
+- [Diagram as Code](https://github.com/RominaElenaMendezEscobar/diagram-as-code): **Diagram as Code** is an approach that allows you to create diagrams through code instead of traditional graphic tools.
+- [UdemyPY](https://github.com/dylannalex/UdemyPy): UdemyPy is an open-source Python project with the mission of making education accessible to everybody.
+# Hobby/Skill Websites
+- [PlaneSpotters](https://www.planespotters.net/): Provides information on tens of thousands of different aircraft, airlines, and air-frames with millions of photos
+- [ShipSpotting](https://www.shipspotting.com/): Much like PlanSpotters but with ships
+- [Rookie Road](https://www.rookieroad.com/): The sports encyclopedia of the internet
+- [Make It Yourself](https://makeityourself.org/): Make it Yourself is a digital book that showcases incredible talent, bringing together over 1000 useful DIY projects
+- [Animated Knots](https://www.animatedknots.com/): Animated Knots by Grog is the web’s #1 site for learning how to tie knots.
+- [Net Knots](https://www.netknots.com/): Well illustrated list of various knots to help you learn dozens of different knots
+- [Ian's Shoelace Site](https://www.fieggen.com/shoelace/): If you want to lace shoes, tie shoes or learn about shoelaces – this is the place!
+- [Perry Morse](https://www.perry.qa/morse): Interactive site for learning Morse Code
+- [Morse Typing Trainer](https://morse.withgoogle.com/learn/): Typing site for learning Morse Code by Google
+- [LCWO](https://lcwo.net/): Learn Morse Code Online
+- [Library of Juggling](https://libraryofjuggling.com/): The Library of Juggling is an attempt to list all of the popular (and perhaps not so popular) juggling tricks in one organized place.
+- [Bridge Command](https://www.bridgecommand.co.uk/): An interactive 3d ship & radar simulator
 # Languages
 ## Western Languages
 ### English
@@ -471,6 +439,7 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [HortusFox](https://www.hortusfox.com/): Collaborative self-hosted plant tracking & management
 - [OpenApply](https://openapply.app/): Allows you to track job applications in a nice UI | Allows for self hosting | Free except for the AI features
 - [JP Files](https://jpfiles.net/): A massive collection of various Japanese related content
+- [FMHY Search](https://fmhy-search.dev.zenir.tech/): External search engine for FMHY
 ## Wikipedia Articles
 - [Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions): Common misconceptions are viewpoints or factoids that are often accepted as true, but which are actually false.
 - [OpenCourseWare](https://en.wikipedia.org/wiki/OpenCourseWare): Wikipedia page for Open Course Ware. Another good way to discover free and quality content from around the world
@@ -478,6 +447,21 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 ## Note Taking Apps
 - [Alexandrie-hub](https://alexandrie-hub.fr/): An open source and self hosted Markdown note taking application
 - [Obsidian](https://obsidian.md/): A free and powerful markdown note taking application built with ElectronJS | Comes with massive plugin library
+# Subreddits
+## Educational Subreddits
+- [r/Documentaries](https://www.reddit.com/r/Documentaries/): Reddit's main subreddit for documentaries.
+- [r/coolguides](https://www.reddit.com/r/coolguides/): Picture based reference guides for anything and everything.
+- [r/educationalgifs](https://www.reddit.com/r/educationalgifs/): Gifs are great at getting quick to digest info, and /r/educationalgifs strives to give you educational info in this quick to digest format.
+- [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/): Explain Like I'm Five is the best forum and archive on the internet for layperson-friendly explanations.
+## Sailing the High Seas
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/): The subreddit for the largest collection of free stuff on the internet.
+- [r/piracy](https://www.reddit.com/r/Piracy/): Dedicated to the discussion of digital piracy, including ethical problems and legal advancements.
+# Telegram Groups
+- [Udemy FREE](https://t.me/udemyforu): Discover daily free and 100% off Udemy courses
+- [Coursevania TG](https://t.me/Coursevania): No.1 Channel On Telegram To get UDEMY Coupons 
+- [Linkedin_Learning](https://t.me/linkedin_learning): Download and watch Linkedin Learning Courses
+- [Herbology](https://t.me/HerbologyY): Herbism, Wortcunning, Recipies, Witchcraft and Magickal Plants Studies
+- [Hypnosis Chat Books](https://t.me/HypnosisChatBooks): A collection of books on the art of hypnosis
 # Unsafe Sites (AVOID AT ALL COST)
 ## Untrusted Sites
 - IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM, crypto miners, as well as malware, and exploit you for ad revenue.
@@ -685,3 +669,28 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - fitgirl-repacks. us 
 - fitgirl-repacks. unb 
 - fitgirl-repacks. in
+# Video Educational Sites
+- [Ted Talk](https://www.ted.com/): TED Members help billions of people worldwide access inspiring ideas.
+- [Archive.Org/Movies](https://archive.org/details/movies): A massive collection of archived documentaries, movies, etc
+- [media.ccc.de](https://media.ccc.de/):  A large collection of educational presentations on thousands of topics
+- [Animagraffs](https://animagraffs.com/): A collection of animated infographics on how various machines and things in our daily lives works# Movies & TV Shows
+## Movie & TV Show Streaming Sites
+- [Cineby](https://www.cineby.gd/): Premium streaming experience with anime, movies, and TV shows. Clean interface and reliable servers.
+- [Xprime](https://xprime.tv/): Versatile streaming platform featuring anime, movies, and TV series with high-quality video and reliable servers. | Allows for watch parties
+- [Flixer](https://flixer.sh/): Multi-content streaming service offering anime alongside movies and TV shows with user-friendly interface.
+- [VeloraTV](https://veloratv.ru/): Russian-based streaming platform providing anime content with multiple language options and quality streams.
+- [BingeWatch](https://bingewatch.to/home): Over 66,000 Movies and TV Show Episodes available and still updating.
+- [Nepu](https://nepu.to/): A well designed and massive collection of Movies, TV Shows, Anime, and Ebooks
+- [Yes! Movies](https://ww1.yesmovies.ag/yes.html): A large collection of movies and TV Shows to enjoy
+- [UniqueStream](https://uniquestream.net/): Enjoy a Netflix like UI and a large collection of movies and TV Shows
+- [PressPlay](https://pressplay.top/public/): A large collection of movies and TV Shows to enjoy
+- [Best Series](https://bstsrs.in/): A dated UI and a large collection of TV show episodes
+- [CriaFlix](https://en.criaflix-live.com/home): A large collection of movies and TV Shows to enjoy
+- [PopcornMovies](https://popcornmovies.org/): 70,000+ Movies 35,000+ TV Shows And Live Broadcasts
+- [Putlocker](https://putlocker.pe/): A massive collection of over 100,000+ Movies and TV Shows
+# Wikis
+## General Knowledge Wikis
+- [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia): A large wiki about sustainability and poverty reduction
+- [Polymaker](https://wiki.polymaker.com/): A comprehensive wiki providing information about 3D printing
+- [DIY Biohacking](https://diyhpl.us/wiki/): A wiki for open source hardware, do-it-yourself bio hacking and practical human enhancement engineering projects which could be called transhumanism.
+- [Psychonauts](https://psychonautwiki.org/wiki/Main_Page): A community-driven online encyclopedia that aims to document psychoanutics in a comprehensive, scientifically-grounded manner.
