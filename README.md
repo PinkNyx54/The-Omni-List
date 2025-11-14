@@ -173,6 +173,8 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts): List of ChatGPT prompts on Hugging Face
 - [2,500+ ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/2-500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da): A massive list of ChatGPT prompts stored on Notion
 - [Prompt Engineering Guide](https://learnprompting.org/docs/introduction): An introductory course to prompt engineering
+## Assorted Tech Sites
+- [Ninite](https://ninite.com/): Install and Update All Your Programs at Once
 ## Browsers
 - [Chromium](https://www.chromium.org/chromium-projects/): Open-source browser project offering strong security, fast performance, and stability
 - [Floorp](https://floorp.app/en-US): The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web.
@@ -238,6 +240,10 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 #### Linux Gaming
 - [AreWeAntiCheatYet](https://areweanticheatyet.com/): A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
 - [Linux Gaming Wiki Page](https://linux-gaming.kwindu.eu/index.php?title=Main_Page): Wiki page that delves into Linux gaming and provides various guides
+#### Linux Ricing
+- [terminal.sexy](https://terminal.sexy/): Terminal Color Scheme Designer
+- [Gogh - Color Schemes](https://gogh-co.github.io/Gogh/): Gogh is a collection of color schemes for various terminal emulators
+- [UnixPorn Subreddit Wiki](https://www.reddit.com/r/unixporn/wiki/index/): Show the world how pretty your computer can be!
 ## Programming
 ### Python
 - [Awesome Python](https://github.com/vinta/awesome-python): An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -266,6 +272,10 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Monkeytype](https://monkeytype.com/): A minimalistic, customizable typing test
 - [Keybr](https://www.keybr.com/): This web application will help you to learn _touch typing_ which means typing through muscle memory without using your eyesight to find the keys
 - [Typing.com](https://www.typing.com/): Standards-aligned typing curriculum featuring gamified lessons, test prep, and powerful classroom management tools
+- [TypeLit](https://www.typelit.io/): Practice typing by retyping ENTIRE books
+## Text Editors
+### NeoVim
+- [Neovim Plugins](https://dotfyle.com/neovim/plugins/trending): Trending Neovim plugins ranked by recent installations across 1000+ tracked Neovim configurations on Dotfyle
 # Courses
 ## Course Torrent Sites
 - [1337x Tutorials](https://1337x.to/sub/34/0/): List of course torrents on 1337x
@@ -341,6 +351,13 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Memory Toys](https://memory.toys/): A collection of four memory based games to play and enjoy
 - [Dual N Back](https://nbacking.com/): In n-back task you need to remember n previous spatial or auditory stimuli.
 - [Brain Scale](https://brainscale.net/): This site contains brain training exercises and games.
+## War Games (CyberSec)
+- [io.netgarage.org](https://io.netgarage.org/): IO is our most mature game, but is nevertheless continually updated as technology develops. We provide recent radare2 and gdb builds.
+- [pwnable.kr](https://pwnable.kr/): Pwnable.kr is a [wargame](https://en.wikipedia.org/wiki/Wargame_\(hacking\)) site for hackers to test and expand their binary exploiting skills.
+- [pwnable.tw](https://pwnable.tw/): Pwnable.tw is a [wargame](https://en.wikipedia.org/wiki/Wargame_\(hacking\)) site for hackers to test and expand their binary exploiting skills.
+- [OverTheWire: Wargames](https://overthewire.org/wargames/): The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+- [reversing.kr](http://reversing.kr/?ckattempt=1): This site tests your ability to Cracking & Reverse Code Engineering.
+- [W3Challs](https://w3challs.com/): Our community offers you security challenges to learn and practice hacking.
 # Forums
 ## Educational Forums
 - [CertCommunity](https://www.certcommunity.org/forum/): IT Cert Courses Forum
@@ -351,6 +368,11 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 ## Misc. Forums
 - [Shroomery](https://www.shroomery.org/): We help spread accurate information about magic mushrooms so people can make informed decisions about what they put in their bodies.
 - [SquidBoard](https://www.squid-board.org/): Our squids will find anything you need!
+# Games
+## Browser Games
+- [DOS Zone](https://dos.zone/): Lets you play thousands of DOS games in your browser
+# FOSS
+- [Rusty Music Player Client](https://rmpc.mierak.dev/): Rmpc is a beautiful, modern and configurable terminal based Music Player Daemon client
 # GitHubs
 ## API Githubs
 - [Public APIs](https://github.com/public-apis/public-apis): collective list of free APIs for use in software and web development.
@@ -391,9 +413,47 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Perry Morse](https://www.perry.qa/morse): Interactive site for learning Morse Code
 - [Morse Typing Trainer](https://morse.withgoogle.com/learn/): Typing site for learning Morse Code by Google
 - [LCWO](https://lcwo.net/): Learn Morse Code Online
-- [Library of Juggling](https://libraryofjuggling.com/): The Library of Juggling is an attempt to list all of the popular (and perhaps not so popular) juggling tricks in one organized place.
+- [Library of Juggling](https://libraryofjuggling.com/): The Library of Juggling is an attempt to list all of the popular juggling tricks in one organized place.
 - [Bridge Command](https://www.bridgecommand.co.uk/): An interactive 3d ship & radar simulator
+## Art Sites
+- [Pixilart](https://www.pixilart.com/): A free online pixel art canvas and social hub. Great for creating game sprites, animated GIFs, or connecting with fellow pixel art fans
+- [remove.bg](https://www.remove.bg/): Remove backgrounds from images for free
+- [Hallucina.Art](https://hallucina.art/): Make visual representations of different senses that seems like you are on acid
+# Job Sites
+## Aggregator Sites
+- [Indeed](https://www.indeed.com/): Indeed is one of the largest, most visited job sites in the world.
+- [SimplyHired](https://www.simplyhired.com/): SimplyHired is a general job aggregator that gathers job postings from affiliated sites
+- [Careerjet](https://www.careerjet.com/): Careerjet is a general job board that scans over 50,000 international recruitment websites daily for job listings
+- [LinkedIn](https://www.linkedin.com/feed/): LinkedIn offers job posting services for employers to connect with and recruit talented professionals faster
+- [Monster Jobs](https://www.monster.com/): Monster is a leading job platform that features international jobs
+- [Getwork](https://www.getwork.com/): Getwork is a search engine designed to connect job seekers directly with employers
+- [Jooble](https://jooble.org/): Jooble is a search engine for job vacancies and it aggregates from **140,000+** sources worldwide
+- [ZipRecruiter](https://www.ziprecruiter.com/): ZipRecruiter is an AI-powered job marketplace that aggregates job listings from thousands of sites
+## Freelance Sites
+- [Toptal](https://www.toptal.com/): Toptal is a freelance website that connects highly qualified freelance industry experts with companies
+- [Freelancer](https://www.freelancer.com/): Freelancer.com is another freelance website where professionals and companies from around the world collaborate on various projects
+- [Upwork](https://www.upwork.com/): Upwork is a freelancing website that connects clients and freelancers from across the globe.
+- [FlexJobs](https://www.flexjobs.com/): Flexjobs is a website that specializes in flexible and remote job opportunities
+- [Guru](https://www.guru.com/): Guru is a place for freelancers and companies across the globe to work together
+- [Behance](https://www.behance.net/#): Behance is a social network for creative talents
+- [99designs](https://99designs.com/): For freelance designers looking for jobs, 99designs offers plenty of options
+- [Dribbble](https://dribbble.com/jobs): Dribbble is one of the most popular platforms for creative talents to meet, connect, and interact with each other
+- [PeoplePerHour](https://www.peopleperhour.com/): People Per Hour helps businesses find professional freelancers to hire by the hour or project
+- [ServiceScape](https://www.servicescape.com/): ServiceScape is an online job board specializing in freelance writing, editorial, and translation work
+- [Designhill](https://www.designhill.com/): DesignHill is a creative marketplace where businesses source quality design from professional designers and artists
+- [Taskrabbit](https://www.taskrabbit.com/): TaskRabbit provides a list of simple errands, such as household chores, lighting installation, and delivery
+- [Flexiple](https://flexiple.com/): Flexiple is a freelance platform that lets professionals choose projects that match their skills with startups and larger companies.
+- [SolidGigs](https://solidgigs.com/): SolidGigs finds and sends job opportunities directly to your inbox based on what you’re looking for
+- [We Work Remotely](https://weworkremotely.com/): We Work Remotely is a job site for finding remote work in different fields
+- [Codeable](https://www.codeable.io/): Codeable is a freelance platform that matches businesses with expert WordPress developers
+- [Gigster](https://gigster.com/): Gigster creates teams of developers to work on projects
+- [Arc](https://arc.dev/): Arc is a freelance platform that connects expert software developers with companies
+- [Wellfound](https://wellfound.com/): Wellfound connects freelancers directly with startups
+- [Gun.io](https://gun.io/): Gun.io is a platform connecting freelance software developers with companies
+- [Fiverr](https://www.fiverr.com/): Fiverr is a platform that connects freelancers with business owners looking for services
 # Languages
+## General Language Sites
+- [Omniglot](https://www.omniglot.com/): The online encyclopedia of writing systems and languages
 ## Western Languages
 ### English
 - [The Punctuation Guide](https://www.thepunctuationguide.com/): A punctuation guide for English learners
@@ -413,6 +473,10 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Na'vi Dictionary PDF](https://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf): This is the authorized and definitive dictionary for Na’vi
 - [Learn Navi YouTube](https://www.youtube.com/@learnnavi/videos): An older YouTube channel with some videos from 10 years ago on learning Na'vi
 # Misc.
+## Internet Mystery Sites
+- [Government Conspiracy Net](https://governmentconspiracy.net/): Seemingly an ARG project
+- [explorer](http://mystique1.free.fr/explorer.html): A French religious conspiracy nut site
+- [PS5](http://ps5.com/): A supposed security consultancy website
 ## Misc. Educational Sites
 - [AFAIK](https://afaik.io/): Learn how everything is connected and see the big picture in an interconnected web of knowledge
 - [Information is Beautiful](https://informationisbeautiful.net/): Data, information, knowledge: we distill it into beautiful, useful graphics & diagrams.
@@ -433,13 +497,48 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [LabXchange](https://www.labxchange.org/): Elevate your teaching with resources aligned to NGSS for grades 9 - 12
 - [JavaLab](https://javalab.org/en/): Free interactive science simulation(Virtual lab) written by JavaScript
 - [EduMedia](https://www.edumedia.com/en): Online interactive encyclopedia for elementary and secondary students
-## Misc General Sites
+- [OneZoom:](https://www.onezoom.org/life/): An interactive tree of life that allows you to see how 2.2 million species interconnect across millenia
+- [Traffic Cone Field Guide](http://www.trafficcone.com/field-guide.html): A short guide to traffic cones
+- [liftingstones](https://liftingstones.org/): liftingstones is documenting the stones lifted, the cultures surrounding them, and their stories from around the world.
+- [The Cloud Appreciation Society](https://cloudappreciationsociety.org/): A site for people who love clouds, appreciating them, and learning about them
+- [Atom animation](https://atomanimation.com/): A cool site that lets you view animations of different element atoms
+- [US Peptide Research](https://uspeptideresearch.com/): A site to purchase different pharmaceutical grade peptides for research purpose
+- [Linux Foundation](https://training.linuxfoundation.org/full-catalog/): The Linux Foundation offers a catalog of different Linux related courses
+## Misc Sites
 - [Quetre](https://quetre.iket.me/#features): A libre front-end for Quora
 - [Activist Handbook](https://activisthandbook.org/): Learn how to become an activist, plan a political campaign strategy, and start a grassroots movement
 - [HortusFox](https://www.hortusfox.com/): Collaborative self-hosted plant tracking & management
 - [OpenApply](https://openapply.app/): Allows you to track job applications in a nice UI | Allows for self hosting | Free except for the AI features
 - [JP Files](https://jpfiles.net/): A massive collection of various Japanese related content
 - [FMHY Search](https://fmhy-search.dev.zenir.tech/): External search engine for FMHY
+- [Blitzortung](https://map.blitzortung.org/#1/17.3/8): Network for Lightning and Thunderstorms in Real Time
+- [Radio Garden](https://radio.garden/visit/nenana-ak/8BOmgezk): Listen to radio stations from all around the world
+- [tv.garden](https://tv.garden/): Watch Global & Local Live TV Online for Free
+- [Cloudhiker](https://cloudhiker.net/): Discover the most interesting, weird and awesome websites of the Internet
+- [Guilt Gauge](https://guiltgauge.com/): Guilt Gauge helps you understand and address these feelings by tracking your emotional state during purchases
+- [The Pudding](https://pudding.cool/): A digital publication that provides a lot  of interesting topics with cool visuals
+- [Neal.fun](https://neal.fun/): A collection of a bunch of random games and other little projects
+- [PointlessSites.com](https://www.pointlesssites.com/): A collection of completely useless and pointless sites
+- [The Fish Doorbell](https://visdeurbel.nl/en/): Ring the doorbell and let fish through
+- [The Wild Wild Web](https://wildwild.directory/): Your directory of awesome websites from around the web
+- [Memory Park](https://www.thememorypark.com/): Put your memories onto a map around the world
+- [Decide.sh](https://decide.sh/): AI Decision Helper & Stop Overthinking Tool
+- [orson.com](http://orson.com/): A directory of random sites
+## Self-Care Sites
+- [you feel like shit](https://youfeellikeshit.com/): This game guides you through a series of questions that help you practice self care.
+- [The Nicest Place on the Internet](https://thenicestplace.net/): A massive collection of user submitted videos of them providing hugs and love for you, stranger
+## Stupid/Silly Websites
+- [Make Everything OK](https://make-everything-ok.com/): Push a button to make everything OK
+- [Is it Christmas?](https://isitchristmas.com/): A site to tell you if its Christmas
+- [Has the Large Hadron Collider destroyed the world yet?](https://hasthelargehadroncolliderdestroyedtheworldyet.com/): Find out if the Large Hadron Collider destroyed the world yet
+- [Drama Button](https://www.dramabutton.com/): Plays dramatic music for life's dramatic moments
+- [Is it lunch time yet?](http://isitlunchtimeyet.com/): For when you want to know if you can have lunch yet
+- [Are the Brits at it again?](https://arethebritsatitagain.org/): The Brits are always at it
+- [areyoumakingmoreredvsblue.com](https://areyoumakingmoreredvsblue.com/): Find out if you are making more 
+- [Staggering Beauty](http://www.staggeringbeauty.com/): Get flashbanged by a wriggling worm
+- [Poolsuite ☼](https://poolsuite.net/): A weird 1990s themed website 
+- [Buy Good Mood](https://buygoodmood.com/): Lets you buy a good mood to send to your friend in need
+- 
 ## Wikipedia Articles
 - [Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions): Common misconceptions are viewpoints or factoids that are often accepted as true, but which are actually false.
 - [OpenCourseWare](https://en.wikipedia.org/wiki/OpenCourseWare): Wikipedia page for Open Course Ware. Another good way to discover free and quality content from around the world
@@ -462,6 +561,8 @@ Utilize common sense when visiting these sites and follow the copyright laws of 
 - [Linkedin_Learning](https://t.me/linkedin_learning): Download and watch Linkedin Learning Courses
 - [Herbology](https://t.me/HerbologyY): Herbism, Wortcunning, Recipies, Witchcraft and Magickal Plants Studies
 - [Hypnosis Chat Books](https://t.me/HypnosisChatBooks): A collection of books on the art of hypnosis
+# True Crime Sites 
+- [Mayhem](https://www.mayhem.net/): A website that provides some information about serial killers and feels like a Web1.0 site
 # Unsafe Sites (AVOID AT ALL COST)
 ## Untrusted Sites
 - IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM, crypto miners, as well as malware, and exploit you for ad revenue.
